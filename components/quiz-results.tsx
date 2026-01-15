@@ -92,7 +92,7 @@ export function QuizResults() {
 
         {/* Recommended Products */}
         <div className="mb-8">
-          <h2 className="mb-6 font-serif text-3xl font-bold">Sản phẩm được đề xuất cho bạn</h2>
+          <h2 className="mb-6 font-serif text-3xl font-bold py-0">Sản phẩm được đề xuất cho bạn</h2>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {recommendedProducts.map((product) => (
               <Link key={product.id} href={`/product/${product.id}`}>
