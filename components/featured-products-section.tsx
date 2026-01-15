@@ -16,7 +16,7 @@ export function FeaturedProductsSection({ products }: FeaturedProductsSectionPro
 
   return (
     <section className="bg-background py-16">
-      <div className="container mx-auto px-[0]">
+      <div className="container mx-auto px-4">
         <div className="flex items-center justify-between mb-8">
           <div className="flex items-center gap-3">
             <div className="flex items-center justify-center w-10 h-10 rounded-full bg-primary/10">
