@@ -13,7 +13,7 @@ const categories = [
     name: "Chăm sóc da",
     nameVi: "Chăm sóc da",
     count: "150+",
-    image: "/skincare-category-woman.jpg",
+    image: "/skincare-products-minimal.jpg",
     imageQuery: "elegant woman applying cream to face skincare routine minimal background",
   },
   {
@@ -21,7 +21,7 @@ const categories = [
     name: "Trang điểm",
     nameVi: "Trang điểm",
     count: "200+",
-    image: "/makeup-category-flatlay.jpg",
+    image: "/makeup-cosmetics-elegant.jpg",
     imageQuery: "makeup products flatlay pink background lipstick mascara brushes elegant arrangement",
   },
   {

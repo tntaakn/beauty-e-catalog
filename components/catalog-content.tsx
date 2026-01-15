@@ -15,7 +15,7 @@ export function CatalogContent() {
     skinTypes: [],
     concerns: [],
     brands: [],
-    priceRange: [0, 500],
+    priceRange: [0, 1500], // Updated priceRange default from [0, 500] to [0, 1500] to show all 24 products
     includeIngredients: [],
     excludeIngredients: [],
   })
