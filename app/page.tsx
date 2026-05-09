@@ -18,7 +18,7 @@ export default function Home() {
       <Header />
 
       {/* Hero Section */}
-      <section className="relative overflow-hidden bg-background py-20 md:py-24">
+      <section className="relative overflow-hidden bg-background pt-0 pb-16 md:pb-16">
         <div className="container mx-auto px-4">
           <div className="grid items-center gap-12 lg:grid-cols-2">
             {/* Text Content */}
